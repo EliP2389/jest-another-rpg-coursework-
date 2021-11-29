@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg-coursework-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliP2389/jest-another-rpg-coursework-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliP2389/jest-another-rpg-coursework-/issues"
+  },
+  "homepage": "https://github.com/EliP2389/jest-another-rpg-coursework-#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
